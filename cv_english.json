@@ -1,190 +1,197 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
+    "name": "Javier Andrés Moreno T.",
     "label": "Full-Stack developer with more than 15 years of experience & development content creator",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "email": "hola@javandresmoreno.com",
+    "phone": "+57 3002104575",
+    "url": "https://javandresmoreno.com",
+    "summary": "I'm Javier, a frontend developer whose goal is to transform ideas into dynamic and effective web applications. I enjoy the process of turning complex concepts into simple and elegant solutions. In addition to my passion for programming, I run and cycle, activities that teach me to stay energetic and resilient in the face of any challenge.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "Spain"
+      "postalCode": "111621",
+      "city": "Bogotá",
+      "countryCode": "CO",
+      "region": "Colombia"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "javandresmoreno",
+        "url": "https://linkedin.com/in/javandresmoreno"
       },
       {
         "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "javandresmoreno",
+        "url": "https://x.com/javandresmoreno"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "javandresmoreno",
+        "url": "https://github.com/javandresmoreno"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Web programming communicator",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Pai Subscriptions",
+      "position": "Frontend Developer",
+      "url": "https://paisuscripciones.com/",
+      "startDate": "2021-05-31",
       "endDate": null,
-      "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
       "highlights": [
-        "Started the company"
+        "Migrated the main project’s styles from SASS to Tailwind CSS. This migration resulted in faster compilation, improved performance, and an optimized user experience.",
+        "Identified and corrected multiple inconsistencies between Figma prototypes and implemented designs. These actions improved visual cohesion and facilitated better understanding for the end user.",
+        "Reviewed and optimized the semantic structure of several projects, significantly improving the websites’ accessibility and SEO.",
+        "Integrated Stripe Elements into several client projects, facilitating secure and efficient payment processes.",
+        "Managed implementations using Laravel, InertiaJS, and VueJS, and effectively integrated data consumed from REST APIs."
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
+      "name": "Freelance professional",
+      "position": "Frontend Developer",
+      "url": "https://javandresmoreno.com",
+      "startDate": "2020-04-01",
+      "endDate": "2021-05-01",
       "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
-      "highlights": [
-        "Started the company"
+        "Built zzardin.com app workflow and designed foundations and each component of the same.",
+        "Implemented the application with React JS and Redux.",
+        "Generated Backend with NodeJS, Mongoose and Express.",
+        "Made complete project about Digital Menu for restaurants. I used stack HTML5, CSS3 and JavaScript. Link: arrozpaisarexton.com. Mobile responsive."
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+
+  "education": [
+    {
+      "institution": "Pontificia Bolivariana University",
+      "url": "https://www.upb.edu.co/es/mision-tic",
+      "area": "Certificate in programming training, development of web applications",
+      "studyType": "Bachelor",
+      "startDate": "2021-05-01",
+      "endDate": "2021-12-22",
+      "score": "5.0"
+    },
+    {
+      "institution": "Platzi",
+      "url": "https://platzi.com/blog/platzi-master-que-es/",
+      "area": "Platzi Master Program - Web development / Professional growth / English",
+      "studyType": "Bachelor",
+      "startDate": "2020",
+      "endDate": "2021",
+      "score": "5.0"
+    },
+    {
+      "institution": "National Service Learning (SENA)",
+      "url": "https://ofertasenasofiaplus-edu.co/curso/tecnologo-en-produccion-de-multimedia/",
+      "area": "Multimedia Production Technologist",
+      "studyType": "Bachelor",
+      "startDate": "2013",
+      "endDate": "2015",
+      "score": "5.0"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
   "skills": [
     {
       "name": "HTML",
       "level": "Master",
-      "keywords": [
-        "Web development", "Frontend"
-      ]
+      "keywords": ["Web development", "Frontend"]
     },
     {
       "name": "CSS",
       "level": "Master",
-      "keywords": [
-        "Web development", "Frontend", "Diseño Responsive"
-      ]
+      "keywords": ["Web development", "Frontend", "Responsive design"]
     },
     {
       "name": "JavaScript",
       "level": "Master",
-      "keywords": [
-        "Web development", "Frontend", "Backend", "Fullstack"
-      ]
+      "keywords": ["Web development", "Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "Tailwind",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Web development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive design"
       ]
     },
     {
       "name": "TypeScript",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Backend", "JavaScript", "Servidor"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Advanced",
-      "keywords": [
-        "Bases de Datos", "SQL", "Database", "Backend"
+        "Web development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
       ]
     },
     {
       "name": "Git",
       "level": "Advanced",
-      "keywords": [
-        "Version control", "Colaboración", "Source code"
-      ]
+      "keywords": ["Version control", "Colaboración", "Source code"]
     },
     {
       "name": "GitHub",
       "level": "Advanced",
-      "keywords": [
-        "Version control", "Collaboration", "Source code", "Git"
-      ]
+      "keywords": ["Version control", "Collaboration", "Source code", "Git"]
     },
     {
       "name": "Next.js",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Web development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
       ]
     },
     {
       "name": "React",
       "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "JavaScript Library", "UI"
-      ]
+      "keywords": ["Web development", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Redux",
+      "level": "Basic",
+      "keywords": ["Web development", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Figma",
+      "level": "Basic",
+      "keywords": ["Web development", "Frontend", "UI"]
+    },
+    {
+      "name": "astro",
+      "level": "Basic",
+      "keywords": ["Web development", "Frontend", "JavaScript Library", "UI"]
     }
   ],
   "languages": [
@@ -194,82 +201,69 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Intermediate"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
+  "interests": [
+    {
+      "name": "Running",
+      "keywords": ["Marathons", "10k"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "CV Plast S.A.S.",
       "isActive": true,
-      "description": "Interactive story with programming challenges to travel to Mars",
+      "description": "E-commerce project developed with the MERN stack, payment gateway integration, login, order display; for agro-industrial products",
       "highlights": [
-        "Choose your own adventure",
-        "In progress"
+        "Payment gateway integration",
+        "Inventories",
+        "Login",
+        "Developing"
       ],
-      "url": "https://mars.codes"
+      "url": "https://issuu.com/javandresmoreno/docs/cv_brochure_issuu"
     },
     {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "JavaScript programming challenges for every day of December until Christmas",
-      "highlights": [
-        "+1 million visits",
-        "Multilanguage",
-        "JavaScript & TypeScript"
-      ],
-      "url": "https://advent.js/dev"
+      "name": "ZZardin International S.A.S.",
+      "isActive": false,
+      "description": "E-commerce project developed with the MERN stack, with payment gateway, user login, sample orders.",
+      "highlights": ["NextJS", "Redux", "Inactive"],
+      "github": "https://github.com/javandresmoreno/zzardin"
     },
     {
-      "name": "Codember",
+      "name": "Arroz Paisa Rexton",
       "isActive": true,
-      "description": "Interactive programming game with challenges and secrets",
-      "highlights": [
-        "+2000 active users",
-        "Challenges for any language"
-      ],
-      "url": "https://codember.dev"
+      "description": "Digital Menu Project for restaurant. Mobile Responsive",
+      "highlights": ["+2000 active users", "HTML", "CSS3", "JS"],
+      "url": "https://arrozpaisarexton.com"
     },
     {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground of HTML, CSS and JavaScript code for sharing",
-      "highlights": [
-        "100k monthly visit",
-        "Developed by the community"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "name": "EventApp",
+      "isActive": false,
+      "description": "Event creation project developed with the MERN stack, user login, choice of templates and administration dashboard. UI design of the application.",
+      "highlights": ["Award-winning educational project", "Figma", "Adobe XD"],
+      "url": "https://xd.adobe.com/view/2cb644e9-807c-4ab5-bf99-2db144f38b31-79e5/?fullscreen",
+      "github": "https://github.com/alejandromunozc/EventApp/"
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "IP Address & Domain Tracker",
       "isActive": true,
-      "description": "List of technical tests of companies to practice programming",
-      "highlights": [
-        "100% free",
-        "+500 community solutions"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "description": "Project to consume the geo.ipify.org/ APIs, displaying the information entered in a map provided by the LeafletJs API.",
+      "highlights": ["IP Address and Domain Query App"],
+      "url": "https://ip-address-tracker-liart.vercel.app/",
+      "github": "https://github.com/javandresmoreno/ip-address-tracker"
     },
     {
-      "name": "miduConf",
-      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
-      "highlights": [
-        "+15k tickets handed over",
-        "+50k live viewers"
-      ],
-      "url": "https://miduconf.com"
+      "name": "Pai",
+      "description": "Layout exercise in HTML5 and CSS3.",
+      "highlights": ["HTML", "CSS3", "Responsive"],
+      "url": "https://javandresmoreno.github.io/pai-subscriptions/"
     }
   ]
 }

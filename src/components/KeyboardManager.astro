@@ -59,7 +59,12 @@ const profilesInfo = profiles.map(({ network, url }) => {
 ---
 
 <footer id="normal-footer" class="no-print">
-  Pulsa <kbd>Cmd</kbd> + <kbd>K</kbd> para abrir la paleta de comandos.
+  Pulsa <kbd>Cmd / Ctrl</kbd> + <kbd>K</kbd> para abrir la paleta de comandos.
+  <p class="credits">
+    Basado en el diseño de 
+    <a class="credits" href="https://github.com/BartoszJarocki/cv" target="_blank">Bartosz Jarocki</a> 
+    y <a class="credits" href="https://github.com/midudev/minimalist-portfolio-json" target="_blank">Midudev</a>
+  </p>
 </footer>
 
 <div id="footer-button" class="no-print">
@@ -161,6 +166,10 @@ const profilesInfo = profiles.map(({ network, url }) => {
     to {
       opacity: 1;
     }
+  }
+
+  .credits {
+    font-size: .8rem;
   }
 
   @media (min-width: 601px) {

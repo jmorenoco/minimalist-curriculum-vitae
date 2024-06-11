@@ -1,190 +1,202 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "name": "Javier Andrés Moreno T.",
+    "label": "Desarrollador Frontend con +3 años de experiencia.",
+    "image": "/portrait.jpg",
+    "email": "hola@javandresmoreno.com",
+    "phone": "+57 3002104575",
+    "url": "https://javandresmoreno.com",
+    "summary": "Soy Javier, desarrollador frontend cuyo objetivo es transformar ideas en aplicaciones web dinámicas y efectivas. Especializado en tecnologías basadas en JavaScript, disfruto del proceso de convertir conceptos complejos en soluciones simples y elegantes. Además de mi pasión por la programación, corro y practico ciclismo, actividades que me enseñan a mantenerme enérgico y resiliente frente a cualquier reto.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "111621",
+      "city": "Bogotá",
+      "countryCode": "CO",
+      "region": "Colombia"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "javandresmoreno",
+        "url": "https://linkedin.com/in/javandresmoreno"
       },
       {
         "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "javandresmoreno",
+        "url": "https://x.com/javandresmoreno"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "javandresmoreno",
+        "url": "https://github.com/javandresmoreno"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Pai Suscripciones",
+      "position": "Desarrollador Frontend",
+      "url": "https://paisuscripciones.com/",
+      "startDate": "2021-05-31",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
       "highlights": [
-        "Started the company"
+        "Migré los estilos del proyecto principal, pasando del uso de SASS a Tailwind CSS. Esta migración resultó en una compilación más rápida, un rendimiento mejorado y una experiencia de usuario optimizada.",
+        "Identifiqué y corregí múltiples inconsistencias entre los prototipos de Figma y los diseños implementados. Estas acciones mejoraron la cohesión visual y facilitaron una mejor comprensión para el usuario final.",
+        "Revisé y optimicé la estructura semántica de varios proyectos, mejorando significativamente la accesibilidad y el SEO de los sitios web.",
+        "Integré Stripe Elements en varios proyectos de clientes, facilitando procesos de pago seguros y eficientes.",
+        "Gestioné implementaciones utilizando Laravel, InertiaJS y VueJS, y logré integrar eficazmente datos consumidos desde APIs REST."
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "name": "Profesional independiente",
+      "position": "Desarrollador Frontend",
+      "url": "https://javandresmoreno.com",
+      "startDate": "2020-04-01",
+      "endDate": "2021-05-01",
       "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-      "highlights": [
-        "Started the company"
+        "Construí el flujo de trabajo de la aplicación zzardin.com y diseñé los fundamentos y cada componente de la misma.",
+        "Implementé la aplicación con React JS y Redux.",
+        "Generé el backend con NodeJS, Mongoose y Express.",
+        "Realicé un proyecto completo sobre Menú Digital para restaurantes. Utilicé HTML5, CSS3 y JavaScript. Adaptable a dispositivos móviles."
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+
+  "education": [
+    {
+      "institution": "Universidad Pontificia Bolivariana",
+      "url": "https://www.upb.edu.co/es/mision-tic",
+      "area": "Certificado en formación de programación, desarrollo de aplicaciones web",
+      "studyType": "Bachelor",
+      "startDate": "2021-05-01",
+      "endDate": "2021-12-22",
+      "score": "5.0"
+    },
+    {
+      "institution": "Platzi",
+      "url": "https://platzi.com/blog/platzi-master-que-es/",
+      "area": "Programa Platzi Master - Desarrollo Web / Crecimiento Profesional / Inglés",
+      "studyType": "Bachelor",
+      "startDate": "2020",
+      "endDate": "2021",
+      "score": "5.0"
+    },
+    {
+      "institution": "Servicio Nacional de Aprendizaje (SENA)",
+      "url": "https://ofertasenasofiaplus-edu.co/curso/tecnologo-en-produccion-de-multimedia/",
+      "area": "Tecnólogo en Producción de multimedia",
+      "studyType": "Bachelor",
+      "startDate": "2013",
+      "endDate": "2015",
+      "score": "5.0"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
   "skills": [
     {
       "name": "HTML",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
       "name": "CSS",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
     },
     {
       "name": "JavaScript",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "Tailwind",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
       ]
     },
     {
       "name": "TypeScript",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
       ]
     },
     {
       "name": "Git",
       "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
-      ]
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
     },
     {
       "name": "GitHub",
       "level": "Avanzado",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
       ]
     },
     {
       "name": "Next.js",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
       ]
     },
     {
       "name": "React",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Redux",
+      "level": "Básico",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Figma",
+      "level": "Básico",
+      "keywords": ["Desarrollo Web", "Frontend", "UI"]
+    },
+    {
+      "name": "astro",
+      "level": "Básico",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     }
   ],
   "languages": [
@@ -194,82 +206,69 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Intermediate"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
+  "interests": [
+    {
+      "name": "Running",
+      "keywords": ["Marathons", "10k"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "CV Plast S.A.S.",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Proyecto de e-commerce de productos para la agroindustria",
       "highlights": [
-        "Elige tu propia aventura",
+        "Sistema de pagos",
+        "Inventarios",
+        "Login de usuarios",
         "En desarrollo"
       ],
-      "url": "https://mars.codes"
+      "url": "https://issuu.com/javandresmoreno/docs/cv_brochure_issuu"
     },
     {
-      "name": "AdventJS",
+      "name": "ZZardin International S.A.S.",
+      "isActive": false,
+      "description": "Proyecto de E-commerce elaborado con el stack MERN, con pasarela de pagos, login de usuarios, muestra de pedidos.",
+      "highlights": ["NextJS", "Redux", "No activo"],
+      "url": "https://github.com/javandresmoreno/zzardin"
+    },
+    {
+      "name": "Arroz Paisa Rexton",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
-      "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
-      ],
-      "url": "https://adventjs.dev"
+      "description": "Proyecto de Menú Digital para restaurante. Responsivo para móviles",
+      "highlights": ["+2000 usuarios activos", "HTML", "CSS3", "JS"],
+      "url": "https://arrozpaisarexton.com"
     },
     {
-      "name": "Codember",
+      "name": "EventApp",
+      "isActive": false,
+      "description": "Proyecto de Creación de Eventos elaborado con el stack MERN, login de usuarios, elección de plantillas y dashboard de administración. Diseño UI de la aplicación.",
+      "highlights": ["Proyecto educativo galardonado", "Figma", "Adobe XD"],
+      "url": "https://xd.adobe.com/view/2cb644e9-807c-4ab5-bf99-2db144f38b31-79e5/?fullscreen",
+      "github": "https://github.com/alejandromunozc/EventApp/"
+    },
+    {
+      "name": "IP Address & Domain Tracker",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
-      ],
-      "url": "https://codember.dev"
+      "description": "Proyecto para consumir las API's de geo.ipify.org/, mostrando la información ingresada en un mapa facilitado por la API de LeafletJs.",
+      "highlights": ["App de Consulta de Direcciones IP y Dominios"],
+      "url": "https://ip-address-tracker-liart.vercel.app/",
+      "github": "https://github.com/javandresmoreno/ip-address-tracker"
     },
     {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "name": "Pai",
+      "description": "Ejercicio de Maquetación en HTML5 y CSS3.",
+      "highlights": ["HTML", "CSS3", "Responsive"],
+      "url": "https://javandresmoreno.github.io/pai-subscriptions/"
     }
   ]
 }

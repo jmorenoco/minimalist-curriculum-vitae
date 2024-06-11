@@ -8,7 +8,7 @@ import { work } from "@cv"
   <ul>
     {
       work.map(
-        ({ name, startDate, endDate, position, summary, highlights, url }) => {
+        ({ name, startDate, endDate, position, highlights, url }) => {
           const startYear = new Date(startDate).getFullYear()
           const endYear =
             endDate != null ? new Date(endDate).getFullYear() : "Actual"
@@ -42,7 +42,11 @@ import { work } from "@cv"
                 </header>
 
                 <footer>
-                  <p>{summary}</p>
+                  <ul class="highlights">
+                    {highlights.map(item => (
+                      <li>{item}</li>
+                    ))}
+                  </ul>
                 </footer>
               </article>
             </li>
@@ -58,6 +62,14 @@ import { work } from "@cv"
     display: flex;
     flex-direction: column;
     gap: 32px;
+  }
+  .highlights {
+    list-style-type: disc;
+    margin-block-start: .5rem;
+    margin-inline-start: 1.5rem;
+    color: #555;
+    gap: 8px;
+    font-size: .9rem;
   }
 
   article h3 {
@@ -76,6 +88,8 @@ import { work } from "@cv"
   article h4 {
     color: #222;
     font-weight: 400;
+    font-style: italic;
+    margin-block-start: .4rem;
   }
 
   header {
