@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Javier Andrés Moreno T.",
-    "label": "Desarrollador Frontend con +3 años de experiencia.",
+    "label": "Desarrollador Frontend con 4 años de experiencia.",
     "image": "/portrait.jpg",
-    "email": "hola@javandresmoreno.com",
+    "email": "contacto@jmoreno.co",
     "phone": "+57 3002104575",
-    "url": "https://javandresmoreno.com",
+    "url": "https://jmoreno.co",
     "summary": "Soy Javier, desarrollador frontend cuyo objetivo es transformar ideas en aplicaciones web dinámicas y efectivas. Especializado en tecnologías basadas en JavaScript, disfruto del proceso de convertir conceptos complejos en soluciones simples y elegantes. Además de mi pasión por la programación, corro y practico ciclismo, actividades que me enseñan a mantenerme enérgico y resiliente frente a cualquier reto.",
     "location": {
       "address": "",
@@ -17,28 +17,28 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "javandresmoreno",
-        "url": "https://linkedin.com/in/javandresmoreno"
+        "username": "jmorenoco",
+        "url": "https://linkedin.com/in/jmorenoco"
       },
       {
         "network": "X",
-        "username": "javandresmoreno",
-        "url": "https://x.com/javandresmoreno"
+        "username": "jmorenoco",
+        "url": "https://x.com/jmorenoco"
       },
       {
         "network": "GitHub",
-        "username": "javandresmoreno",
-        "url": "https://github.com/javandresmoreno"
+        "username": "jmorenoco",
+        "url": "https://github.com/jmorenoco"
       }
     ]
   },
   "work": [
     {
-      "name": "Pai Suscripciones",
+      "name": "Pai, Partner especializado de Stripe",
       "position": "Desarrollador Frontend",
-      "url": "https://paisuscripciones.com/",
+      "url": "https://pai.lat/",
       "startDate": "2021-05-31",
-      "endDate": null,
+      "endDate": "2025-01-15",
       "highlights": [
         "Migré los estilos del proyecto principal, pasando del uso de SASS a Tailwind CSS. Esta migración resultó en una compilación más rápida, un rendimiento mejorado y una experiencia de usuario optimizada.",
         "Identifiqué y corregí múltiples inconsistencias entre los prototipos de Figma y los diseños implementados. Estas acciones mejoraron la cohesión visual y facilitaron una mejor comprensión para el usuario final.",
@@ -50,7 +50,7 @@
     {
       "name": "Profesional independiente",
       "position": "Desarrollador Frontend",
-      "url": "https://javandresmoreno.com",
+      "url": "https://jmoreno.co",
       "startDate": "2020-04-01",
       "endDate": "2021-05-01",
       "highlights": [
@@ -58,6 +58,19 @@
         "Implementé la aplicación con React JS y Redux.",
         "Generé el backend con NodeJS, Mongoose y Express.",
         "Realicé un proyecto completo sobre Menú Digital para restaurantes. Utilicé HTML5, CSS3 y JavaScript. Adaptable a dispositivos móviles."
+      ]
+    },
+    {
+      "name": "Profesional autónomo - Emprendedor ",
+      "position": "Solido - Agencia de Soluciones Integrales",
+      "url": "https://jmoreno.co",
+      "startDate": "2000-10-01",
+      "endDate": "2020-10-01",
+      "highlights": [
+        "Lideré varios proyectos de publicidad y señalización para importantes empresas, como: Constructora Bolívar, Centro Nacional de Memoría Histórica, Grupo Solerium, Grupo Hancock, entre otras.",
+        "Creé logotipos corporativos y personales que han sido reconocidos.",
+        "Coordiné la Impresión offset y digital de publicaciones, flyers, tarjetas, etc.",
+        "Administré y publiqué un sitio web, primero en su área, de diseños de estampados para prendas de vestir llamado estampados.in"
       ]
     }
   ],
@@ -223,30 +236,18 @@
   ],
   "projects": [
     {
-      "name": "CV Plast S.A.S.",
+      "name": "Arroz Paisa Rexton",
       "isActive": true,
-      "description": "Proyecto de e-commerce de productos para la agroindustria",
-      "highlights": [
-        "Sistema de pagos",
-        "Inventarios",
-        "Login de usuarios",
-        "En desarrollo"
-      ],
-      "url": "https://issuu.com/javandresmoreno/docs/cv_brochure_issuu"
+      "description": "Proyecto de Menú Digital para restaurante. Responsivo para móviles",
+      "highlights": ["+2000 usuarios activos", "HTML", "CSS3", "JS"],
+      "url": "https://arrozpaisarexton.com"
     },
     {
       "name": "ZZardin International S.A.S.",
       "isActive": false,
       "description": "Proyecto de E-commerce elaborado con el stack MERN, con pasarela de pagos, login de usuarios, muestra de pedidos.",
       "highlights": ["NextJS", "Redux", "No activo"],
-      "url": "https://github.com/javandresmoreno/zzardin"
-    },
-    {
-      "name": "Arroz Paisa Rexton",
-      "isActive": true,
-      "description": "Proyecto de Menú Digital para restaurante. Responsivo para móviles",
-      "highlights": ["+2000 usuarios activos", "HTML", "CSS3", "JS"],
-      "url": "https://arrozpaisarexton.com"
+      "url": "https://github.com/jmorenoco/zzardin"
     },
     {
       "name": "EventApp",
@@ -262,13 +263,13 @@
       "description": "Proyecto para consumir las API's de geo.ipify.org/, mostrando la información ingresada en un mapa facilitado por la API de LeafletJs.",
       "highlights": ["App de Consulta de Direcciones IP y Dominios"],
       "url": "https://ip-address-tracker-liart.vercel.app/",
-      "github": "https://github.com/javandresmoreno/ip-address-tracker"
+      "github": "https://github.com/jmorenoco/ip-address-tracker"
     },
     {
       "name": "Pai",
       "description": "Ejercicio de Maquetación en HTML5 y CSS3.",
       "highlights": ["HTML", "CSS3", "Responsive"],
-      "url": "https://javandresmoreno.github.io/pai-subscriptions/"
+      "url": "https://jmorenoco.github.io/pai-subscriptions/"
     }
   ]
 }
